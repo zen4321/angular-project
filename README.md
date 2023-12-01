@@ -1,2 +1,2 @@
-# angular-sprint-boot-project
+# angular-spring-boot-project
 Contains part of module
